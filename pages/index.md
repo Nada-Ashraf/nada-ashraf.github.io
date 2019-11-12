@@ -16,12 +16,12 @@ I’m continually learning and working on [personal projects][8].
 
 ## Blogs
 
-I publish Blogs about productivity and programming from time to time, which you will find in the [articles archive][3].
+I publish Blogs about productivity and programming from time to time, which you will find in the [blogs archive][3].
 
 
 ## Life Streaming
 
-I'm [@nada.ashraf11][4]{:target="_blank" onclick="ga('send', 'event', 'Extra', 'Twitter Click', 'Twitter Home');"} on Facebook.
+I'm [nada.ashraf11][4]{:target="_blank" onclick="ga('send', 'event', 'Extra', 'Twitter Click', 'Twitter Home');"} on Facebook.
 
 
 ## Reading

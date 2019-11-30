@@ -1,6 +1,7 @@
 ---
 layout: default
-permalink: /resume/
+title: Resume
+permalink: /resume
 ---
 
 ## {{ page.title }}

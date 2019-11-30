@@ -7,7 +7,7 @@ redirect_from: /about/
 
 Hi! I'm Nada, I love coding, coffee and tarantino movies.
 
-## CV
+## Resume
 
 Check [my resume][1] for a preview of my skills and experience.
 

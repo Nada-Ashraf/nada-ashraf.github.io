@@ -6,7 +6,7 @@ permalink: /resume
 
 ## {{ page.title }}
 
-### EDUCATION
+### Eduction
 
 **Cairo University** [2016 - Present] \
 _Faculty of Engineering, Systems and Biomedical Engineering Department_

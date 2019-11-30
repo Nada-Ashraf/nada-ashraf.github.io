@@ -8,7 +8,7 @@ permalink: /resume
 
 ### Eduction
 
-**Cairo University** [2016 - Present] \
+**Cairo University** [2016 - Present] <br/>
 _Faculty of Engineering, Systems and Biomedical Engineering Department_
 
 ### Skills
@@ -47,9 +47,9 @@ _Faculty of Engineering, Systems and Biomedical Engineering Department_
 
 ### Work Experience
 
-- **Freelance Translator** [2015-2016] \
+- **Freelance Translator** [2015-2016] <br/>
   Translated articles related to customer service, quality management, productivity, marketing, financial management, sales and social networks.
-- **Freelance Transcriber** [2016-2017] \
+- **Freelance Transcriber** [2016-2017] <br/>
   Medical interviews transcription
 
 ### Interests

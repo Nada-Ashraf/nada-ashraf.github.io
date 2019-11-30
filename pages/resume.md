@@ -35,7 +35,7 @@ _Faculty of Engineering, Systems and Biomedical Engineering Department_
 
 ### Projects
 
-- [HUFFMAN CODING][1] _[C++, DS]_
+- [HUFFMAN CODING][1] _[C++, Data Structures]_
 
 - [Nabd App][2] _[React native]_
 

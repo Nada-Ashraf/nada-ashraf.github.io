@@ -8,13 +8,12 @@ permalink: /projects/
 ## {{ page.title }}
 
 I love software development and machine learning and I'm continually learning and working on personal projects.
-To stay updated with my work check out my [GitHub][1]{:target="_blank" onclick="ga('send', 'event', 'Extra', 'GitHub Click', 'GitHub');"} account.
+To stay updated with my work check out my [GitHub][1]{:target="\_blank" onclick="ga('send', 'event', 'Extra', 'GitHub Click', 'GitHub');"} account.
 
 - [Nabd][7] is a native mobile app designed to help people in emergencies.
+- [Huffman Encoding][10] for image compression.
+- ML Model based on Non Invasive Methods for [Prediction of Liver Fibrosis][11]
 - I practise data science skills by completing [data camp projects][6]
-- I and my team implemented [Huffman Encoding][10] for images.
-
-
 
 [1]: https://github.com/nada-ashraf
 [2]: /ishows
@@ -26,8 +25,4 @@ To stay updated with my work check out my [GitHub][1]{:target="_blank" onclick="
 [8]: http://arturoherrero.github.io/theyearwemet/365/
 [9]: https://github.com/arturoherrero/biteydown
 [10]: https://github.com/sbme-tutorials/huffman-encoding
-[11]: https://github.com/arturoherrero/dotfiles
-[12]: https://github.com/arturoherrero/twitterise
-[13]: https://github.com/arturoherrero/4clojure
-[14]: https://github.com/arturoherrero/human-resource-machine
-[15]: https://github.com/arturoherrero/advent-of-code
+[11]: https://aligamalelgaml.github.io/Team15/

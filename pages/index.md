@@ -15,9 +15,9 @@ Check [my resume][1] for a preview of my skills and experience.
 
 I’m continually learning and working on [personal projects][8].
 
-## Blogs
+<!-- ## Blogs
 
-I publish Blogs about productivity and programming from time to time, which you will find in the [blogs archive][3].
+I publish Blogs about productivity and programming from time to time, which you will find in the [blogs archive][3]. -->
 
 ## Life Streaming
 
